@@ -1,11 +1,9 @@
 # Hi there, I'm Lulama Cynthia Mandlazi 👋
 
 ## 🌐 Connect with me
-[
 
-![LinkedIn](linkedin-badge.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lulama%20Cynthia%20Mandlazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a)
 
-](https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a)
 ## 💻🖥️🖨️ IT Support Professional
 
 I am a dedicated IT Support professional with a passion for technology, troubleshooting, and helping users solve technical challenges. I hold CompTIA A+ and Network+ certifications and continuously expand my skills in Microsoft 365, Azure, networking, and desktop support.
