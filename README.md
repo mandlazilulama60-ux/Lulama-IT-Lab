@@ -2,8 +2,8 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lulama_Cynthia Mandlazi-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lulama_Cynthia Mandlazi-blue?style=for-the-badge&logo=linkedin&logoColor=white)([https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+https://img.shields.io/badge/LinkedIn-Lullie_Cee-blue?style=for-the-badge&logo=linkedin&logoColor=white
 ## 💻🖥️🖨️ IT Support Professional
 
 I am a dedicated IT Support professional with a passion for technology, troubleshooting, and helping users solve technical challenges. I hold CompTIA A+ and Network+ certifications and continuously expand my skills in Microsoft 365, Azure, networking, and desktop support.
@@ -45,4 +45,4 @@ I am a dedicated IT Support professional with a passion for technology, troubles
 
 ---
 
-*"Helping users stay productive through reliable IT support and continuous learning."*
+*" Committed to helping users stay productive through reliable IT support and continuous learning."*
