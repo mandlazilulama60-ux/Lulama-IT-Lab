@@ -3,7 +3,7 @@
 ## 🌐 Connect with me
 [
 
-![LinkedIn](https://raw.githubusercontent.com/Lulama Cynthia Mandlazi/YOUR-REPO/main/linkedin-badge.svg)
+![LinkedIn](https://raw.githubusercontent.com/Lulama/YOUR-REPO/main/linkedin-badge.svg)
 
 ](https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
