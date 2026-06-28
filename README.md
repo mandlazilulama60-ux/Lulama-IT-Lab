@@ -3,10 +3,9 @@
 ## 🌐 Connect with me
 [
 
-![LinkedIn](https://raw.githubusercontent.com/Lulama/YOUR-REPO/main/linkedin-badge.svg)
+![LinkedIn](linkedin-badge.svg)
 
-](https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
+](https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a)
 ## 💻🖥️🖨️ IT Support Professional
 
 I am a dedicated IT Support professional with a passion for technology, troubleshooting, and helping users solve technical challenges. I hold CompTIA A+ and Network+ certifications and continuously expand my skills in Microsoft 365, Azure, networking, and desktop support.
