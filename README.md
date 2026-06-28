@@ -2,7 +2,7 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lullie_Cee-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lullie_Cee-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lulama-cynthia-mandlazi-34985439a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ## 💻🖥️🖨️ IT Support Professional
 
@@ -29,7 +29,7 @@ I am a dedicated IT Support professional with a passion for technology, troubles
 - Customer Service & User Assistance
 
 ### 📜 Certifications
-- [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](EJB7CZQQSEQQQY9G)
+- [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](http://verify.CompTIA.org)
 - [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](http://verify.CompTIA.org)
 - Information Technology: Systems support skills program NFQ5 
 
